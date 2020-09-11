@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="historyRecyclerView" type="id" />
+    <item name="payoutEmail" type="id" />
+    <item name="payout" type="id" />
+</resources>

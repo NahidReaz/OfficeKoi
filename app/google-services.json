@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830224725808",
+    "firebase_url": "https://feisty-parity-240405.firebaseio.com",
+    "project_id": "feisty-parity-240405",
+    "storage_bucket": "feisty-parity-240405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830224725808:android:0bbdff83b816c496",
+        "android_client_info": {
+          "package_name": "com.example.officekoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830224725808-76fu9ovsqc59spq33ccsq9rjrtqb000h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.officekoi",
+            "certificate_hash": "37671824d3c590d6fd6fcc66b38166f537bfebae"
+          }
+        },
+        {
+          "client_id": "830224725808-ne7bhe9ucr8r12i48im10o4vqrkangio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALUKzT8ITDPJssu7BYdW_cZfgtI5FMalY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830224725808-ne7bhe9ucr8r12i48im10o4vqrkangio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
